@@ -1,5 +1,4 @@
-/* Exercises are from:
-https://www.w3resource.com/c-programming-exercises/basic-declarations-and-expressions/index.php */
+/* Exercises are from: https://www.w3resource.com/c-programming-exercises/basic-declarations-and-expressions/index.php */
 
 #include <stdio.h>
 
