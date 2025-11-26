@@ -1,0 +1,8 @@
+# Ignore content of the Executables
+Executables/*
+
+# But do not ignore .gitkeep inside the Executables
+!Executables/.gitkeep
+
+# Ignore executable type files
+*.exe
